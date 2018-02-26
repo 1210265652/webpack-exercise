@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56f44b35-3e5d-47e6-8f1e-54317e9a65e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -222,12 +221,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519611698597</updated>
-      <workItem from="1519611699766" duration="1576000" />
+      <workItem from="1519611699766" duration="1746000" />
     </task>
+    <task id="LOCAL-00001" summary="vue init webpack exercise">
+      <created>1519613324313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519613324313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1576000" />
+    <option name="totallyTimeSpent" value="1746000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,6 +272,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vue init webpack exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="vue init webpack exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
